@@ -28,6 +28,6 @@ The above argument does the following:
 **CONTRIBUTIONS:
 
 |Background and Literature Survey: Sung Jun Bok, Deepak Halliyavar, Juyeon Kim || Data Collection: Deepak Halliyavar, Juyeon Kim || Data Preprocessing: Sung Jun Bok, Deepak Halliyavar ||
-|Data Augmentation: Sung Jun Bok, Juyeon Kim || Modeling: Sung Jun Bok, Deepak Halliyavar, Juyeon Kim || Experimentation: Sung Jun Bok, Deepak Halliyavar, Juyeon Kim  || Hyperparameter Tuning: Sung Jun Bok, Deepak Halliyavar, Juyeon Kim ||
+ Data Augmentation: Sung Jun Bok, Juyeon Kim || Modeling: Sung Jun Bok, Deepak Halliyavar, Juyeon Kim || Experimentation: Sung Jun Bok, Deepak Halliyavar, Juyeon Kim  || Hyperparameter Tuning: Sung Jun Bok, Deepak Halliyavar, Juyeon Kim ||
 |LaTeX documentation: Sung Jun Bok, Juyeon Kim || Code management and OOPs' dev: Deepak Halliyavar ||
 ___________________________________________________________________________________________________________________________________
