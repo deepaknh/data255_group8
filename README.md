@@ -16,7 +16,7 @@ The above argument does the following:
 3. Training.
 4. Testing.
 5. Finally displays the test results and saves the graphs in the directorary as .png file.
-======================================================================================
+=====================================================================================
 **DATASET DOWNLOAD LINKS:
 
 'https://www.kaggle.com/datasets/datasnaek/mbti-type'
