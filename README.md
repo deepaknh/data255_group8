@@ -2,7 +2,7 @@
 
 Personality classification from social media has gained attention and has been implemented by various neural networks. However, numerous papers mention the limitation of the amount of labeled data. To address this issue, this project will employ semi-supervised learning using a stochastic gradient descent classifier. Stochastic gradient descent classifier will initially process a small dataset with MBTI labels and then assign labels on unlabeled text data from Twitter. For this project, four models will be used: LSTM, GRU, BILSTM, and BiGRU. The models will be trained with the augmented data, evaluated, and compared for its effectiveness in classifying MBTI personality types. In this project’s final examinations, the BiLSTM model achieved the best accuracy results of 0.85, 0.89, 0.79 and 0.765 for the E/I, S/N, T/F, J/P dimensions, respectively.
 
-**HOW TO RUN CODE?:
+**HOW TO RUN CODE?**
 1. Download code.zip and extract files
 2. Open main.py and pass argument to run (!python main.py --model_type X --model_architecture Y --download_data)
 
