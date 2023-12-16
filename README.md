@@ -1,4 +1,4 @@
-# Personality Trait Prediction Using Text From SocialMedia
+# Personality Trait Prediction Using Text From Social Media
 
 Personality classification from social media has gained attention and has been implemented by various neural networks. However, numerous papers mention the limitation of the amount of labeled data. To address this issue, this project will employ semi-supervised learning using a stochastic gradient descent classifier. Stochastic gradient descent classifier will initially process a small dataset with MBTI labels and then assign labels on unlabeled text data from Twitter. For this project, four models will be used: LSTM, GRU, BILSTM, and BiGRU. The models will be trained with the augmented data, evaluated, and compared for its effectiveness in classifying MBTI personality types. In this project’s final examinations, the BiLSTM model achieved the best accuracy results of 0.85, 0.89, 0.79 and 0.765 for the E/I, S/N, T/F, J/P dimensions, respectively.
 
@@ -16,17 +16,14 @@ The above argument does the following:
 3. Training.
 4. Testing.
 5. Finally displays the test results and saves the graphs in the directorary as .png file.
-	
 ============================================================================================
-
 **DATASET DOWNLOAD LINKS:
 
 'https://www.kaggle.com/datasets/datasnaek/mbti-type'
 
 'https://www.kaggle.com/datasets/kazanova/sentiment140'
-
 ============================================================================================
-**CONTRIBUTIONS:
+**CONTRIBUTIONS:**
 
 -Background and Literature Survey: Sung Jun Bok, Deepak Halliyavar, Juyeon Kim
 
