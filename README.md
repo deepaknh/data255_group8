@@ -17,18 +17,17 @@ The above argument does the following:
 4. Testing.
 5. Finally displays the test results and saves the graphs in the directorary as .png file.
 	
-=================================================================================================================================
+==================================================================================================
 
 **DATASET DOWNLOAD LINKS:
 
 '[links]https://www.kaggle.com/datasets/datasnaek/mbti-type'
 '[links]https://www.kaggle.com/datasets/kazanova/sentiment140'
 
-=================================================================================================================================
-
+==================================================================================================
 **CONTRIBUTIONS:
 
 |Background and Literature Survey: Sung Jun Bok, Deepak Halliyavar, Juyeon Kim || Data Collection: Deepak Halliyavar, Juyeon Kim || Data Preprocessing: Sung Jun Bok, Deepak Halliyavar ||
-|Data Augmentation: Sung Jun Bok, Juyeon Kim || Modeling: Sung Jun Bok, Deepak Halliyavar, Juyeon Kim || Experimentation: Experimentation  || Hyperparameter Tuning: Sung Jun Bok, Deepak Halliyavar, Juyeon Kim ||
+|Data Augmentation: Sung Jun Bok, Juyeon Kim || Modeling: Sung Jun Bok, Deepak Halliyavar, Juyeon Kim || Experimentation: Sung Jun Bok, Deepak Halliyavar, Juyeon Kim  || Hyperparameter Tuning: Sung Jun Bok, Deepak Halliyavar, Juyeon Kim ||
 |LaTeX documentation: Sung Jun Bok, Juyeon Kim || Code management and OOPs' dev: Deepak Halliyavar ||
 ___________________________________________________________________________________________________________________________________
