@@ -21,8 +21,8 @@ The above argument does the following:
 
 **DATASET DOWNLOAD LINKS:
 
-'[links]https://www.kaggle.com/datasets/datasnaek/mbti-type'
-'[links]https://www.kaggle.com/datasets/kazanova/sentiment140'
+'https://www.kaggle.com/datasets/datasnaek/mbti-type'
+'https://www.kaggle.com/datasets/kazanova/sentiment140'
 
 ==================================================================================================
 **CONTRIBUTIONS:
