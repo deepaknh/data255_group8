@@ -16,14 +16,14 @@ The above argument does the following:
 3. Training.
 4. Testing.
 5. Finally displays the test results and saves the graphs in the directorary as .png file.
-=======================================================================================
+======================================================================================
 **DATASET DOWNLOAD LINKS:
 
 'https://www.kaggle.com/datasets/datasnaek/mbti-type'
 
 'https://www.kaggle.com/datasets/kazanova/sentiment140'
 
-=======================================================================================
+=====================================================================================
 **CONTRIBUTIONS:**
 
 -Background and Literature Survey: Sung Jun Bok, Deepak Halliyavar, Juyeon Kim
