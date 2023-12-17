@@ -26,7 +26,6 @@ if __name__ == '__main__':
         print("Training and Testing datasets download complete...")
 
     # Load your data
-    # Assuming 'TRAINING.csv' is your dataset file
     data = pd.read_csv('TRAINING.csv')
 
     # Split type
@@ -69,7 +68,7 @@ if __name__ == '__main__':
         lstm_model.plot_history(history, f'LSTM Classification - {args.model_type}')
 
         print("Entering testing...")
-        # Assuming 'TESTING.csv' is your test dataset file
+        
         test_data = pd.read_csv('TESTING.csv')
         test_data[["EI", "SN", "TF", "JP"]] = test_data["type"].apply(list).tolist()
         X_test = test_data['posts']
@@ -88,7 +87,7 @@ if __name__ == '__main__':
         # Plot the training history
         bigru_model.plot_history(history, f'BiGRU Classification - {args.model_type}')
 
-        # Assuming 'TESTING.csv' is your test dataset file
+        
         test_data = pd.read_csv('TESTING.csv')
         test_data[["EI", "SN", "TF", "JP"]] = test_data["type"].apply(list).tolist()
         X_test = test_data['posts']
@@ -107,7 +106,7 @@ if __name__ == '__main__':
         # Plot the training history
         bilstm_model.plot_history(history, f'BiLSTM Classification - {args.model_type}')
 
-        # Assuming 'TESTING.csv' is your test dataset file
+        
         test_data = pd.read_csv('TESTING.csv')
         test_data[["EI", "SN", "TF", "JP"]] = test_data["type"].apply(list).tolist()
         X_test = test_data['posts']
@@ -126,7 +125,7 @@ if __name__ == '__main__':
         # Plot the training history
         gru_model.plot_history(history, f'GRU Classification - {args.model_type}')
 
-        # Assuming 'TESTING.csv' is your test dataset file
+        
         test_data = pd.read_csv('TESTING.csv')
         test_data[["EI", "SN", "TF", "JP"]] = test_data["type"].apply(list).tolist()
         X_test = test_data['posts']
